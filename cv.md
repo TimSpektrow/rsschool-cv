@@ -1,4 +1,4 @@
-[](https://sun9-49.userapi.com/impg/CZgIKsq8CmFza5_dIKkS8dq480HBggcA5Z7NPA/d62nSqvCshY.jpg?size=1080x1034&quality=96&sign=5f46af709c4d43fd8ec8fbdc82c8c4dc&type=album)
+![](https://sun9-49.userapi.com/impg/CZgIKsq8CmFza5_dIKkS8dq480HBggcA5Z7NPA/d62nSqvCshY.jpg?size=1080x1034&quality=96&sign=5f46af709c4d43fd8ec8fbdc82c8c4dc&type=album)
 # Timur Badalbaev
 
 ## Contacts
@@ -7,12 +7,13 @@
 * Telegram: [@Timur_Badalbaev](https://t.me/Timur_Badalbaev)
 * GitHub: [TimBad1](https://github.com/TimBad1)
 * E-mail: [send mail](mailto:term1t88@mail.ru)
+* Discord: [Timur(@TimBad1)]()
 
 ***
 ## About me
- С конца 2020 изучаю фронт-энд, очень хорошо оствоил верстку, изучил JS, покоряю React.
+I have been studying front-end since the end of 2020, mastered the layout very well, studied JS, conquered React.
  
- Очень нравится учиться, но хочется попробовать себя уже в бою
+ I really like to study, but I want to try myself already in battle
 
 ***
 ## Skills
@@ -30,7 +31,7 @@
 ## Code example
 ```
 function showMessage() {
-  alert( 'Всем привет!' );
+  alert( 'Hello world!' );
 }
 
 showMessage();
