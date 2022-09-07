@@ -13,6 +13,7 @@
  С конца 2020 изучаю фронт-энд, очень хорошо оствоил верстку, изучил JS, покоряю React.
  
  Очень нравится учиться, но хочется попробовать себя уже в бою
+
 ***
 ## Skills
 * HTML5
@@ -26,4 +27,37 @@
 * Agile-metodoly
 
 ***
+## Code example
+```
+function showMessage() {
+  alert( 'Всем привет!' );
+}
+
+showMessage();
+```
+
+***
+## Projects
+[api + pagination](https://timbad1.github.io/api)
+
+[photograph + videoplayer](https://timbad1.github.io/portfolio-phorograph/portfolio-phorograph)
+
+
+[game pair](https://timbad1.github.io/pair-game/)
+
+[Blanchrd - html + css](https://timbad1.github.io/Blanchard)
+***
+
+## Education
+* 2021 Voronezh Institute of High Technologies
+    + PROFESSIONAL RETRAINING PROGRAMM. Direction Testing
+* 2014 - 2020 Saratov State University
+    + Faculty of Geology
+* 2008 - 2012 Saratov State University
+    + Faculty of Mathematics and Mechanics (incomplete higher education)
+* 2003 - 2007 College of Radioelectronics
+    + Mechanical engineering technology
+
+***
+## English - B1
 
