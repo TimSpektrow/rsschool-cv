@@ -7,7 +7,7 @@
 * Telegram: [@Timur_Badalbaev](https://t.me/Timur_Badalbaev)
 * GitHub: [TimBad1](https://github.com/TimBad1)
 * E-mail: [send mail](mailto:term1t88@mail.ru)
-* Discord: [Timur(@TimBad1)]()
+* Discord: Timur(@TimBad1
 
 ***
 ## About me
