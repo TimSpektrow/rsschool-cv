@@ -8,3 +8,17 @@
 * GitHub: [TimBad1](https://github.com/TimBad1)
 * E-mail: [send mail](mailto:term1t88@mail.ru)
 
+***
+## Skills
+* HTML5
+* CSS3
+* Responsive/Mobile Design
+* Cross-Browser Development
+* JavaScript
+* React
+* Git/Version Control
+* Figma, Photoshop
+* Agile-metodoly
+
+***
+
